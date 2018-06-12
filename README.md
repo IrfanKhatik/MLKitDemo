@@ -1,2 +1,2 @@
 # MLKitDemo
-Using Car Recognition and Nudity check using clmodels and MLKit
+Car Recognition and Nudity check using clmodels and MLKit
